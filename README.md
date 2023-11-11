@@ -1,0 +1,1 @@
+This program is a very basic demo of a login system, using flask and sqlite.  It does not verify emails, or support 2FA, and currently has no mechanism for resetting passwords.  That being said, the basic parts are functional.
